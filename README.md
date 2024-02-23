@@ -115,7 +115,7 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
  docker rmi -f $(docker images --filter "dangling=true" -q --no-trunc)
 
 
-Made with :heart: by <a href="https://github.com/Abdallahhamada" target="_blank">Mahmoud Abd Alziem</a>
+Made with :heart: by <a href="https://github.com/Abdallahhamada" target="_blank">Abdallah Hamada</a>
 
 &#xa0;
 
